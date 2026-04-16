@@ -1,2 +1,2 @@
 # Inviscid-Transonic-Flows-in-BH-Spacetime
-This repository is dedicated to the analytic study of transonic flows. It contains a collection of jupyter notebooks that study how inviscid accretion flows near black hole cross the sonic point , how the sonic points shift as Specific Energy  and specific angular momentum  changes and how flow topologies change with changing parameters.
+This repository is dedicated to the analytic study of general relativistic transonic flows. It contains a collection of jupyter notebooks that study how inviscid accretion flows near black hole cross the sonic point , how the sonic points shift as Specific Energy  and specific angular momentum  changes and how flow topologies change with changing parameters.
