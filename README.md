@@ -8,10 +8,11 @@ The main focus of this project is the analytic and semi-analytic study of transo
 
 The repository currently contains the following notebooks:
 
-- `Schwarzschild_spherical_accretion.ipynb`
-- `Schwarzschild_wedge_accretion.ipynb`
-- `Kerr_hydrostatic_accretion.ipynb`
-- `Kerr_wedge_accretion.ipynb`
+- `Schwarzschild_spherical_accretion.ipynb` (relativistic Bondi-like flow in Schwarzschild Spacetime)
+- `Schwarzschild_wedge_accretion.ipynb` (relativistic wedge-like flow in Schwarzschild Spacetime)
+- `Kerr_hydrostatic_accretion.ipynb` (relativistic hydrostatic-balanced disk in Kerr Spacetime)
+- `Kerr_wedge_accretion.ipynb` (relativistic wedge-like flow in Kerr Spacetime)
+
 
 These notebooks explore different accretion configurations in Schwarzschild and Kerr spacetimes.
 
