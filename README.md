@@ -1,6 +1,6 @@
 # Inviscid-Transonic-Flows-in-BH-Spacetime
 
-This repository contains my current project work on inviscid transonic accretion flows in black hole spacetimes, carried out under **Prof. Indranil Chattopadhyay, ARIES**.
+This repository contains my ongoing project work on inviscid transonic accretion flows in black hole spacetimes, carried out under **Prof. Indranil Chattopadhyay, ARIES**.
 
 The main focus of this project is the analytic and semi-analytic study of transonic flows: how accreting matter crosses sonic points, how the sonic point locations change with flow parameters such as specific energy and angular momentum, and how different flow topologies arise in different geometries and spacetimes.
 
@@ -41,26 +41,14 @@ Notebook for wedge-flow accretion in Kerr spacetime.
 
 ## Project Status
 
-This repository is an active research-work repository and reflects my **current ongoing project work**.  
+This repository is an active research-work repository and reflects my **ongoing project work**.  
 The notebooks may continue to evolve as derivations, numerical methods, and interpretations are refined.
 
 ## Project Report
 
 I am adding the project report for this work here.
 
-- **Project Report:**Project_ARIES.pdf
-
-## Reading / Papers
-
-I am also adding a reading section here for papers relevant to this project.
-
-Suggested structure:
-
-- **Foundational papers on transonic accretion**
-- **Schwarzschild accretion flow papers**
-- **Kerr accretion flow papers**
-- **Hydrostatic / wedge geometry references**
-- **Background reading on relativistic fluid flow around black holes**
+- **Project_ARIES.pdf**
 
 ### Papers to Read
 Some of the papers I used are given in ReadingMaterials folder , the rest you can find in the references of my report **Project_ARIES.pdf**
